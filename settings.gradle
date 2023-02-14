@@ -1,0 +1,4 @@
+rootProject.name = 'communication-log-module'
+include(':communication-log-module')
+
+project(':communication-log-module').projectDir = file('modules/communication-log-module')
